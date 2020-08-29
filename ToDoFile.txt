@@ -1,0 +1,3 @@
+Wash dishes,Medium
+Walk,High
+Walk,High
